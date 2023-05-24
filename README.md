@@ -1,2 +1,2 @@
-# Project_1_Hosing_market
+# Project_1_Housing_market
 Analyze data with various parameters.
