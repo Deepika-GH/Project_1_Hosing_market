@@ -1,4 +1,4 @@
-# Project_1_Housing_market
+# Project_1_Housing_market - Immigrant Status
 
 **# IMMIGRANT STATUS ANALYSIS BY HUMA ALAM**
 Looking at the Immigrant Status of Immigrant and Non-Immigrant against the BC Housing Market in 2018-2019.
@@ -18,7 +18,7 @@ Secondly, we need to isolate the immigrant status which are in the Buyer Charact
 4)	Average sale price                       
 5)	Average buyer age    
 
-# Once we have our data isolated for Immigrant and Non-Immigrant status, we are ready to run some analysis:
+**Once we have our data isolated for Immigrant and Non-Immigrant status, we are ready to run some analysis:**
 **1)	Immigration Status and Average Number of Property Buyers 2018-2019:**
 -	Now that we have the Immigrant Status filtered data frame, we are now, narrowing down to specific totals, in this case, we are looking at the affects of Number of Property Buyers.
 
