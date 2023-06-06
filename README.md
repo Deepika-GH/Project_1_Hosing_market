@@ -75,7 +75,7 @@ Secondly, we need to isolate the immigrant status which are in the Buyer Charact
 - We are looking at both 2018-2019 years to see if Total Income vs. Sale Price makes a difference depending on your immigration status. (Estimate Column filtered by Average Sales Price and Total Income Property Buyer, one data frame for Immigrants and another for Non-Immigrant)
 **-	ANALYSIS:** With the regression test we can see that r-value is less than 0.30 meaning it has no correlation. There is no correlation between the Average Price and Average Total Income of Property Buyer in BC, this can indicate that there are multiple other factors that can affect it.
 
-=====================================================================================================================
+================================================
 Family Size and Housing Analysis- DEEPIKA
 Investigate these 3 following Buyer Charecteristics:
                    1) Couple Family with Children
