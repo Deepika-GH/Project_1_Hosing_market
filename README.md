@@ -14,6 +14,18 @@ Analyze data with various parameters.
 
 ###
 
+
+================================================
+Family Size and Housing Analysis- DEEPIKA
+Investigate these 3 following Buyer Charecteristics:
+                   1) Couple Family with Children
+                   2) Couple Family without Children          
+                   3) Lone (Single) Parent Family   
+* Filtered the csv file to obtaine the above three Buyer Charecteristics and plot pie chart and Bar graph to represent the analysis
+* Visualized regression testing to find correlation between variables
+* plotted map graph using Geoapify API(to get latitude and longitude data).
+
+
 # The Analysis is on Age vs Average Sale Price ,Number of buyers and Average buyer age . Considering both genders and all other factors in total for the year 2018 and 2019.
 
 Below I have categorised my code and explained my Analysis
@@ -74,15 +86,5 @@ Secondly, we need to isolate the immigrant status which are in the Buyer Charact
 **2)	Correlation between Immigration Status vs. Average Sales Price and Average Total Income Property Buyer**
 - We are looking at both 2018-2019 years to see if Total Income vs. Sale Price makes a difference depending on your immigration status. (Estimate Column filtered by Average Sales Price and Total Income Property Buyer, one data frame for Immigrants and another for Non-Immigrant)
 **-	ANALYSIS:** With the regression test we can see that r-value is less than 0.30 meaning it has no correlation. There is no correlation between the Average Price and Average Total Income of Property Buyer in BC, this can indicate that there are multiple other factors that can affect it.
-
-================================================
-Family Size and Housing Analysis- DEEPIKA
-Investigate these 3 following Buyer Charecteristics:
-                   1) Couple Family with Children
-                   2) Couple Family without Children          
-                   3) Lone (Single) Parent Family   
-* Filtered the csv file to obtaine the above three Buyer Charecteristics and plot pie chart and Bar graph to represent the analysis
-* Visualized regression testing to find correlation between variables
-* plotted map graph using Geoapify API(to get latitude and longitude data).
 
 
